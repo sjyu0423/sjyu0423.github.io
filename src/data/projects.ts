@@ -63,6 +63,8 @@ export const categories: Category[] = [
             name: "MiniJEPA",
             description:
               "A project exploring learned representations and motion prediction.",
+            githubUrl: "https://github.com/sjyu0423/Mini_JEPA",
+            websiteUrl: "https://sjyu0423.github.io/Mini_JEPA/",
             status: "experimental",
           },
         ],
